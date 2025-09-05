@@ -1,29 +1,33 @@
-## Hi there 👋
+# Núcleo de Política, Redes Sociais e Aprendizado de Máquina (NUPRAM) 
 
-## **Sobre nós**
-Somos um grupo interdisciplinar sediado na **[Instituição]** que investiga *[área ou problema central]*. Nosso objetivo é gerar conhecimento científico de alto impacto, formar recursos humanos e transferir tecnologia para a sociedade.
+## Quem somos
+O **NUPRAM** é um núcleo interdisciplinar sediado na Universidade de São Paulo dedicado a investigar como **políticos brasileiros utilizam as redes sociais** e de que maneira essa presença digital influencia o debate público e a qualidade da democracia. Buscamos **unir ciência política, ciência de dados e inteligência artificial** para oferecer análises empiricamente robustas e teoricamente inovadoras sobre comunicação política on-line.
 
-## **Missão**
-- Produzir pesquisa de excelência reconhecida nacional e internacionalmente.  
-- Fomentar a inovação colaborando com parceiros acadêmicos e industriais.  
-- Disseminar resultados por meio de publicações, software livre e eventos.  
+## Missão
+- **Mapear e comparar** estratégias digitais de atores políticos em diferentes plataformas de redes sociais (e.g. X/Twitter, Instagram, Facebook, YouTube e TikTok).  
+- **Desenvolver ferramentas de aprendizado de máquina** capazes de coletar, classificar e analisar grandes volumes de postagens, permitindo identificar padrões de discurso, desinformação e polarização.  
+- **Avaliar o impacto** dessas práticas sobre opinião pública, formulação de políticas e qualidade democrática, articulando dimensões internas e projeções internacionais do debate.  
 
-## **Linhas de Pesquisa**
-- **[Tema 1]** – breve descrição em uma linha.  
-- **[Tema 2]** – breve descrição em uma linha.  
-- **[Tema 3]** – breve descrição em uma linha.  
+## Linhas de pesquisa
+- **Análise de conteúdo automatizada** – construção de modelos de NLP para detectar temas, enquadramentos e tom emocional em postagens políticas.  
+- **Criação de Bancos de Dados Anotados** – Produção de bancos de dados e córpora anotados para o uso em tarefas de aprendizado de máquina.
+- **Política comparada on-line** – comparação entre comportamentos digitais de parlamentares brasileiros de diferentes poderes e níveis do federalismo.  
 
-## **Projetos Ativos**
-- **[Projeto A]** – objetivo, financiamento e principais entregas.  
-- **[Projeto B]** – objetivo, financiamento e principais entregas.  
 
-## **Equipe**
-| Nome | Função | Contato |
-|------|--------|---------|
-| [Dr. Nome 1] | Coordenador(a) | email@exemplo.com |
-| [Nome 2] | Pesquisador(a) | email@exemplo.com |
-| [Nome 3] | Desenvolvedor(a) | email@exemplo.com |
+## Equipe
+| Nome                 | Função          |
+|----------------------|-----------------|
+| Prof. Dra. **Lorena G. Barberia** | Coordenadora e Pesquisadora Principal |
+| Doutorando. **Pedro Schmalz**       | Pesquisador |
+| Mestranda **Dara Vilela** | Pesquisadora    |
 
-## **Publicações Selecionadas**
-- *[Autor(es)]. Título. Revista/Conferência, ano.*  
-- *[Autor(es)]. Título. Revista/Conferência, ano.*  
+## Projetos atuais
+- **CoViD-Pol (2023 – 2025)** – Corpus em português de tweets de elites políticas sobre vacinação contra a Covid-19, com anotações de **relevância, posicionamento (stance) e sentimento**.  
+  - **Versão 2.0 (2025)**: inclui quatro rótulos (relevance, stance, sentiment, children-vaccination), CSV final, codebook detalhado e materiais da apresentação **NLP4DH 2025**.  
+  - **Versão 1.0 (2023)**: contém relevância e stance, CSV final, codebook e materiais da apresentação **STIL 2023**.  
+  - Resultados divulgados em dois artigos revisados por pares (NLP4DH 2025; STIL 2023).  
+  - Financiamento da **Fundação José Luiz Egydio Setúbal (JLES)**, **C4AI/USP – FAPESP #2019/07665-4 e IBM**, e apoio do **MCTI/Softex**.
+
+## Contato
+✉️ nupram.fflch@usp.br
+📷 nupram.fflch.usp
